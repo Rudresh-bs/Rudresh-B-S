@@ -19,8 +19,8 @@
 - 🔭 Currently building end-to-end ML & AI projects — from data to deployment
 - 💡 Passionate about NLP, Data Analytics,Deep Learning and Python Full Stack Development
 - 🚀 Focused on shipping real, working applications — not just notebooks
-- 🌱 Exploring Voice AI, LLMs, and Generative AI
-- 💬 Ask me about Python Full Stack, SQL, Flask, or Data Visualization
+- 🌱 Exploring Voice AI, LLMs, Generative AI, Advance SQL, Statistical data Analysis
+- 💬 Ask me about Python Full Stack, SQL, Django, Data Visualization and AI Technology
 
 -----
 
