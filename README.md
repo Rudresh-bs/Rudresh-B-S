@@ -19,8 +19,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 I'm a passionate **Python Full Stack Developer** with a strong foundation in
 building end-to-end web applications and data-driven solutions. As a fresher,
 I have hands-on experience developing real-world projects integrating
