@@ -19,13 +19,26 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer and data enthusiast with a passion for building clean web interfaces and deriving meaningful insights from data. I work across the full spectrum — from writing queries and building dashboards to crafting responsive front-end experiences.
+## 👨‍💻 About Me
 
-- 🔭 Currently working on: **data visualization & web projects**
-- 🌱 Always learning and improving my craft
-- 💡 Interested in: **Analytics, Dashboarding, and Web Development**
-- 📍 Based in **Bengaluru, India**
+I'm a passionate **Python Full Stack Developer** with a strong foundation in
+building end-to-end web applications and data-driven solutions. As a fresher,
+I have hands-on experience developing real-world projects integrating
+third-party APIs like **Groq (AI)** and **Razorpay (Payments)** using
+**Flask** and **Django**.
 
+I enjoy working across the full stack — from designing clean, responsive
+frontends with **HTML, CSS & JavaScript** to building robust backends and
+REST APIs with Python. I also have a keen interest in **Data Analytics**,
+working with **Pandas, NumPy, Power BI, and Tableau** to turn raw data
+into meaningful insights.
+
+- 🎯 Actively looking for: **Python Full Stack / Backend Developer roles**
+- 🔨 Built projects with: **Flask, Django, REST APIs, Groq AI, Razorpay**
+- 📊 Also skilled in: **Data Analytics & Visualization**
+- 🌱 Currently exploring: **React.js & PostgreSQL**
+- 📍 Based in: **Bengaluru, India**
+- 💬 Ask me about: **Python, Django, Flask, APIs, or Data Analytics**
 ---
 
 ## 🛠️ Tech Stack
