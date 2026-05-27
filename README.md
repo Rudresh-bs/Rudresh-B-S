@@ -65,17 +65,6 @@
 
 -----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rudresh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudresh-B-S&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rudresh-B-S&theme=tokyonight&hide_border=true)
-
-</div>
-
------
 
 ## 🤝 Connect With Me
 
