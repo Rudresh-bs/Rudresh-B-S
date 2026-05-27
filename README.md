@@ -17,7 +17,7 @@
 ## 🧠 About Me
 
 - 🔭 Currently building end-to-end ML & AI projects — from data to deployment
-- 💡 Passionate about NLP, Data Analytics,Deep Learning and Python Full Stack Development
+- 💡 Passionate about NLP, Data Analytics, Deep Learning and Python Full Stack Development
 - 🚀 Focused on shipping real, working applications — not just notebooks
 - 🌱 Exploring Voice AI, LLMs, Generative AI, Advance SQL, Statistical data Analysis
 - 💬 Ask me about Python Full Stack, SQL, Django, Data Visualization and AI Technology
@@ -52,6 +52,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**AI-TECH**
+![Groq](https://img.shields.io/badge/Groq-FF6C37?style=flat-square&logo=groq&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-008000?style=flat-square&logo=razorpay&logoColor=white)
+
 
 **Deployment & Tools**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
