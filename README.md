@@ -1,94 +1,91 @@
+<!-- Banner -->
 
-<h1 align="center">Hi there, I'm [Rudresh B S] 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Data & Web Developer | Turning data into insights and ideas into interfaces</em>
-</p>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Rudresh%20B%20S&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Python%20Developer&descAlignY=58&descColor=a0aec0)
 
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rudresh-bs-a90217355">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rudreshgowda938@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
- 
-</p>
+</div>
 
----
+-----
 
-## 👨‍💻 About Me
+#  Hi, I’m Rudresh B S
 
-I'm a passionate **Python Full Stack Developer** with a strong foundation in
-building end-to-end web applications and data-driven solutions. As a fresher,
-I have hands-on experience developing real-world projects integrating
-third-party APIs like **Groq (AI)** and **Razorpay (Payments)** using
-**Flask** and **Django**.
+🤖 AI/ML Engineer in the making | Building real-world AI & Data-driven applications 📍 Bengaluru, India
 
-I enjoy working across the full stack — from designing clean, responsive
-frontends with **HTML, CSS & JavaScript** to building robust backends and
-REST APIs with Python. I also have a keen interest in **Data Analytics**,
-working with **Pandas, NumPy, Power BI, and Tableau** to turn raw data
-into meaningful insights.
+-----
 
-- 🎯 Actively looking for: **Python Full Stack / Backend Developer roles**
-- 🔨 Built projects with: **Flask, Django, REST APIs, Groq AI, Razorpay**
-- 📊 Also skilled in: **Data Analytics & Visualization**
-- 🌱 Currently exploring: **React.js & PostgreSQL**
-- 📍 Based in: **Bengaluru, India**
-- 💬 Ask me about: **Python, Django, Flask, APIs, or Data Analytics**
----
+## 🧠 About Me
 
-## 🛠️ Tech Stack
+- 🔭 Currently building end-to-end ML & AI projects — from data to deployment
+- 💡 Passionate about NLP, Data Analytics,Deep Learning and Python Full Stack Development
+- 🚀 Focused on shipping real, working applications — not just notebooks
+- 🌱 Exploring Voice AI, LLMs, and Generative AI
+- 💬 Ask me about Python Full Stack, SQL, Flask, or Data Visualization
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🐍 Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📊 Data Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" width="55%" />
-</p>
-
----
+-----
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Used |
-|--------|-------------|-----------|
-| 🔗 [Project Name](https://github.com/YOUR_USERNAME/project) | Brief description of what it does | Python, SQL |
-| 🔗 [Project Name](https://github.com/YOUR_USERNAME/project) | Brief description of what it does | HTML, CSS, JS |
-| 🔗 [Project Name](https://github.com/YOUR_USERNAME/project) | Brief description of what it does | Power BI / Tableau |
+### 🎙️ Echo Eats — *Voice Assistant for Food*
 
----
+> A voice-powered food ordering assistant that understands natural speech and delivers smart restaurant interactions
 
-## 📊 Activity Graph
+- 🎤 Voice recognition with real-time NLP processing
+- 🍽️ Smart menu navigation using speech commands
+- ⚡ Built with Python, Speech Recognition & AI backend
+- 🔗 [View Project](https://github.com/Rudresh-bs/Echo-Eats-.git)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true" />
-</p>
+-----
 
----
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p align="center"><em>"Data is the new oil — and I know how to refine it."</em></p>
+**ML / DL**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+**Data & Viz**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Deployment & Tools**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+-----
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rudresh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudresh-B-S&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rudresh-B-S&theme=tokyonight&hide_border=true)
+
+</div>
+
+-----
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudresh%20BS-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudresh-bs-a90217355)
+[![Email](https://img.shields.io/badge/Email-rudreshgowda938@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rudreshgowda938@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rudresh--B--S-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rudresh-B-S)
+
+-----
+
+<div align="center">
+
+⭐ *If you find my work useful, consider starring the repositories — it really helps!*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=100&section=footer)
+
+</div>
