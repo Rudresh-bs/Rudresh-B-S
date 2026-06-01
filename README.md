@@ -43,7 +43,7 @@
 - Python (Pandas, Matplotlib, Seaborn)
 - Google Colab
 - Tableau Public
--link( )
+-link(https://github.com/Rudresh-bs/Covid-Data-Analysis- )
 
 -----
 
