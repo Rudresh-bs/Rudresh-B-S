@@ -35,6 +35,16 @@
 - ⚡ Built with Python, Speech Recognition & AI backend
 - 🔗 [View Project](https://github.com/Rudresh-bs/Echo-Eats-.git)
 
+
+### COVID DATA ANALYSIS
+> A comprehensive data analysis project visualizing COVID-19's global impact across 243 countries (2020–2023) using Python and Tableau.
+
+-📁 **Dataset Source:** Our World in Data Records: 333,420 rows | 22 columns
+- Python (Pandas, Matplotlib, Seaborn)
+- Google Colab
+- Tableau Public
+-link( )
+
 -----
 
 ## 🛠️ Tech Stack
