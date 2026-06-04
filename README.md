@@ -79,6 +79,7 @@
 **AI-TECH**
 ![Groq](https://img.shields.io/badge/Groq-FF6C37?style=flat-square&logo=groq&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-008000?style=flat-square&logo=razorpay&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini-2.5%20Flash-00ff88?style=flat-square&labelColor=0a0a0a)
 
 
 **Deployment & Tools**
