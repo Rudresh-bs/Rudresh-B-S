@@ -45,6 +45,19 @@
 - Tableau Public
 -link(https://github.com/Rudresh-bs/Covid-Data-Analysis- )
 
+
+### ⌨ CodePal — AI Coding Assistant
+
+> Whether you're writing new code, hunting bugs, reviewing logic, or cracking algorithm problems, CodePal has a dedicated mode for it. With multi-language support spanning Python, JavaScript, Java, C++, SQL, React, and beyond — it adapts to whatever stack you're working with.
+
+
+- 🤖 **Gemini 2.5 Flash** — Free, fast AI model via Google AI Studio, no backend needed
+- 🎯 **5 Coding Modes** — General Assistant, Code Reviewer, Bug Fixer, Code Explainer, Algorithm Helper
+- 🌐 **Multi-language** — Python, JavaScript, Java, C++, SQL, React, and more
+- 🎨 **3 Response Styles** — Detailed explanation, Code only, or Concise
+- view project (https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-codepal-29tqpxhf65md6dwww5lsd7.streamlit.app/)
+
+
 -----
 
 ## 🛠️ Tech Stack
