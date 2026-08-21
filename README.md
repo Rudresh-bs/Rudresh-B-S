@@ -26,6 +26,17 @@
 
 ## 🚀 Featured Projects
 
+### 📚 RAG Assistant — Smart Slide Q&A
+
+> A Retrieval-Augmented Generation (RAG) system built to parse, index, and query presentation decks with high-accuracy contextual answers and citations.
+
+* 🔍 **FAISS Vector Store & Gemini Embeddings** — Fast semantic search powered by `text-embedding-004` and `IndexFlatL2`
+* ⚡ **Gemini 2.5 Flash LLM** — Context-aware answer generation with confidence scoring (High / Medium / Low)
+* 🎯 **Smart Metadata & Attribution** — Filters by domain, team size, and duration with exact slide-level citations
+* 🛠️ **Built with** Python (`python-pptx`), FAISS, Gemini API & Streamlit
+* 🔗 [View Project](https://github.com/Rudresh-bs/your-repo-name)
+
+  
 ### 🎙️ Echo Eats — *Voice Assistant for Food*
 
 > A voice-powered food ordering assistant that understands natural speech and delivers smart restaurant interactions
