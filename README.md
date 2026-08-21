@@ -34,7 +34,7 @@
 * ⚡ **Gemini 2.5 Flash LLM** — Context-aware answer generation with confidence scoring (High / Medium / Low)
 * 🎯 **Smart Metadata & Attribution** — Filters by domain, team size, and duration with exact slide-level citations
 * 🛠️ **Built with** Python (`python-pptx`), FAISS, Gemini API & Streamlit
-* 🔗 [View Project](https://github.com/Rudresh-bs/your-repo-name)
+* 🔗 [View Project](https://github.com/Rudresh-bs/RAG-Powered-Project-Intelligence-Assistant)
 
   
 ### 🎙️ Echo Eats — *Voice Assistant for Food*
